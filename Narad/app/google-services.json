@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "139372905012",
+    "project_id": "narad-fb919",
+    "storage_bucket": "narad-fb919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139372905012:android:a8f579fb3a9047085ec061",
+        "android_client_info": {
+          "package_name": "com.example.myapplication.narad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139372905012-7e2sbqgtpt70d83u2d20i3hgt630fd7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication.narad",
+            "certificate_hash": "32fd8a15d386836e24d3d3c862febf01194618e7"
+          }
+        },
+        {
+          "client_id": "139372905012-sj4u58h4h27kicgcg41vmf5j97f336r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-8iGJP3UKYSn0daB6qPUXJk_tlDmkB2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139372905012-sj4u58h4h27kicgcg41vmf5j97f336r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
